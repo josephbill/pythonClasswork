@@ -1,6 +1,7 @@
 myName = "Joseph Mbugua" # string variable
 myName = "ABC"
 print(myName)
+newVariable = "my nano created variable"
 myNumber = 1  # Integer/ Number variable
 print(myNumber)
 myHeight = 5.9  # float variable
