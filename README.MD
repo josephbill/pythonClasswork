@@ -142,6 +142,67 @@ Reference to where a variable can be accessed in a program.
    can access variables of the outer function.
 
 
+### OOP (OBJECT ORIENTED PROGRAMMING)
+- everything in python is an object 
+- an object is a standalone entity that has its own properties(variables)
+and methods(functions implemented to the variables)
+
+### Building blocks of OOP
+1. Classes or class :: is the blueprint for creating an object 
+2. Object :: an instance or creation of a class 
+
+### PILLARS OF OOP
+
+1. Inheritance:: allows us to define a class and inherit all the methods and
+properties in another class 
+2. Encapsulation :: bundling of data and methods into one unit ( class )
+- protects data from direct access or modification outside the class 
+- Achieved by access modifiers 
+    a. public : accessible everywhere 
+-   b. _protected : hint that it should not be accessed directly 
+-   c. __private : Name-mangled to prevent modification
+
+3. Abstraction : hiding complex implementation details and exposing 
+only the relevant ones
+- achieved using abstract classes and methods should be implemented 
+by subclasses 
+4. Polymorphism : allows different classes to have methods with the same 
+name but different implementations: override 
+- achieved via method overriding and duck typing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
